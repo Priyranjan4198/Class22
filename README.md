@@ -1,1 +1,1 @@
-# Class22
+# project-C22-template
